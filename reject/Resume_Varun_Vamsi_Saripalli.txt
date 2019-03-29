@@ -1,0 +1,115 @@
+VARUN VAMSI SARIPALLI 
+
+svarun@connect.hku.hk | (852) 54413117 |   linkedin.com/in/varunvamsi/  
+
+Room 602A, Simon K.Y Lee Hall, Pokfulam Road, The University of Hong Kong 
+
+EDUCATION 
+The University of Hong Kong 
+ Hong Kong 
+  Bachelor of Engineering in Computer Science, Minor in Finance                                                              Sep 2015 – Expected May 2019 
+
+     
+
+•  Recipient of HKU Foundation Scholarship (2015-2019) 
+•  Recipient of The Sola Gratia Foundation Scholarship (2018) 
+Vancouver, Canada 
+The University of British Columbia – Academic Exchange Program 
+Bachelor of Engineering in Computer Science 
+ Jan - May 2018 
+Senior Secondary Education (CBSE Class XII)                                                                                                                   Chennai, India 
+•  Awarded a certificate for exceptional performance by the education minister of India                                              95 % Aggregrate 
+
+   Relevant Coursework 
+
+• 
+
+Investments and Portfolio Analytics ,Corporate Finance, Financial Accounting, MicroEconomics, MacroEconomics, Statistical 
+Modelling, Data Structures and Algorithms, Machine Learning, Database Management, Computer Networking, Operating 
+Systems,Software Engineering 
+SKILLS & CERTIFICATIONS 
+
+ 
+
+•  Technical Skills: Python, R, Microsoft Office (Excel, MS Word& PowerPoint), C/C++, Java, SQL, JavaScript, Haskell 
+•  Certifications: AWS Certified Solutions Architect – Associate 
+•  Languages: Proficient in English, Hindi, Telugu and Tamil 
+
+WORK EXPERIENCE & PROJECTS 
+Amazon Web Services 
+Solutions Architect Intern 
+
+      
+
+  Bengaluru, India 
+   Jun - Aug 2018 
+
+•  Analyzed client needs and guided them towards designing and implementing better application architectures  
+
+resulting in clients building faster, more secure and fault-tolerant application architectures on the AWS platform.  
+
+•  Built an Automated Start-Up Profiler to collect funding data of Start-Ups to enable the Business Development team  
+
+to get access to accurate data in a timely manner resulting in reduced man-hours required to be put in by them to 
+find the same information and enabling them to approach potential future clients  
+
+•  Collaborated with team members to build the Minimum Viable Product of an App using React Native,  ElasticSearch 
+and GraphQL resulting in easier estimation and prediction of the total bill amount of a client using specific AWS 
+products. 
+
+  Manila, Philippines 
+    Jun - Jul 2017 
+
+HKU Common Purpose Leadership Program (Habitat For Humanity) 
+
+Business Analyst Intern 
+•  Developed an innovative Pilot engaging collaboration between the youth community and Habitat for Humanity  
+
+towards building a better community resulting in decreased school dropout rates of teenagers 
+
+ 
+Larsen & Toubro 
+ Information Technology Intern 
+
+ Chennai, India 
+  Jun - Jul 2016 
+•  Designed and deployed Web pages for the Research and Development division with SQLite as the backend  database. This made it 
+easier for them to input all their experimental data resulting in a centralized database from which this data could be looked up when 
+needed. 
+PROJECTS 
+ 
+  HKU Final Year Project                                                                                                                                                Aug 2018 - Current 
+
+•  Ongoing work to build a system to understand Mutual Funds’ Holdings of Credit Default Swaps from SEC Filings  
+
+using Natural Language Processing. Result would be a centralized database to enable easier access to information regarding 
+Mutual Funds’ holdings of Credit Default Swaps 
+
+ Project Tutoria 
+
+      Sep - Dec 2017 
+•  Full stack development of a website aimed at improving student access to one-on-one, on campus tutoring at HKU.The result was a 
+completed product wherein students could register on the website, then easily search to find the best tutor for their required subject 
+based on ratings from earlier reviews and book a slot with them depending on the tutor’s schedule.  
+
+ 
+AWARDS, ACHIEVEMENTS & LEADERSHIP POSITIONS 
+Hong Kong University Student Consulting Group- Managing Director 
+
+  
+
+Hong Kong 
+
+ 
+
+•  Leading the organization in providing consulting services to non-profits, social enterprises and small businesses globally.  
+•  Responsible for project proposals and client pitches 
+
+ Ernst & Young University Jam (Data & Analytics) 
+
+Hong Kong 
+
+•  Spearheaded my team’s presentation focusing on increasing bank credit card user base using data analytics. 
+•  Recognized as one of the standout performers of the event. 
+
+

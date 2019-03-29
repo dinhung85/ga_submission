@@ -1,0 +1,226 @@
+ 
+
+                                                                                                                                                       
+
+ 
+
+Qaiser Qayyum Malik 
+
+Phone: (Mobile) +92 321 4357128, 
+
+Email: qaiser.qayyum.malik@gmail.com 
+
+LinkedIn Profile: http://www.linkedin.com/in/qaiserqayyum 
+
+Skype ID: qaiser.qayyum.malik 
+
+ 
+Professional Summary: 
+ 
+•  15 years of professional experience working as Senior Business Analyst and Project Manager: heading team 
+of Business Analysts, MIS and QA leads; working for highly reputable financial services firms in UAE, Saudi 
+Arabia and Pakistan. Worked as Senior System Analyst and Software Engineer in past developing complex 
+back office, front office financial software applications for financial services/capital markets business. More than 
+8 years of experience in Oracle Technologies, Database Design, & PL/SQL Development. 
+
+•  Current Position: Senior Analyst, Project Management & Business Analysis,  
+
+Company: S&P Global Market Intelligence  
+•  Managing and finalizing business requirements with Product Owners, Analysts and Teams 
+•  Providing roles of Agile Scrum Master, Mentor and Business Analyst 
+•  Managing SQL/PLSQL and oData for sprint development  
+•  Managing documentation for Business Requirements, Releases and UATs   
+
+•  Previous Position as Manager Business Analysis & MIS, 
+
+Company: Mubasher Financial Services LLC, Dubai, UAE  
+•  Managing and finalizing business requirements with business heads, management, end-clients & technology  
+•  Managing documentation for Financial Services Products, Business Requirements and UATs  
+•  Managing MIS requirements automation and ad hoc reporting using MS Excel and databases (SQL) 
+•  Managing projects and equity brokerage software & business products based in Bahrain, UAE, US, Saudi 
+and Egypt. Travelling to various countries for client/business meetings, delivering demos/presentations as 
+part of Pre-Sales team for new GTN Franchise platform. 
+
+•  Managing communication  on all projects with Institutional clients of business within region  including Al 
+Rajhi  Capital,  HSBC  Saudi/SABB  Capital,  Arqaam  Capital,  Alinma  Investments  and  international 
+institutions including Merrill Lynch, Pinnacle Capital.  
+
+•  Managing new business initiatives from CEO, Directors and Board. 
+•  Providing  Business  Users  and  Clients  Trainings  and  Demos,  Creating  and  Managing  FAQs,  User 
+
+Manuals for Software and Business Products. 
+
+•  Managing SLAs with multiple parties like Vendors and Corporate Clients 
+•  Working on projects with leading regional and international banks as our clients including Al Rajhi Capital 
+(KSA),  HSBC/SABB  Capital  (KSA),  Alinma  Investment/Bank  (KSA),  ADCB  (UAE),  Watan 
+Investment (KSA), Merrill Lynch (USA), Pinnacle Capital (USA), KASB Capital (Pakistan) 
+
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+Strong Areas: 
+
+ 
+
+•  Project and Product Management, Business Requirements Analysis, Scrum and Functional Specification 
+
+Designs of business and software products.   
+
+•  Managing  team  for  UAT  (User  Acceptance  Testing)  for  BackOffice  and  Web/Mobile  products  as  well  as 
+
+integrated systems. 
+
+•  Strong  Knowledge  of  Equity  Stock  Market  &  Brokerage  business  mainly  BackOffice,  Reporting  and 
+Individual/Institutional Trading systems including Accounts/Finance, Custody/Inventory, Equity, FIS/MM, 
+HR, CRM, Asset Management and Online Trading System including Risk Management, Margin Trading, 
+Margin Financing, Islamic Margin/Murabaha. 
+
+•  Exposure  of  various  regulators  such  as  SCA  (UAE),  CMA  (Bahrain),  CMA  (TADAWUL,  Saudi), 
+Custodians, CDC (Electronic Share Repository Company, Pakistan) systems including NCSS (Electronic 
+Settlement System for payment) and RTA (Registrar Application for physical shares inventory). 
+
+•  Significant understanding of Software Development Life Cycle (Waterfall, Agile) from Requirement gathering 
+
+to project implementation and Client Support/Communication/Trouble-Shooting. 
+
+•  5  years  Database  design,  development  and  commanding  SQL  &  PL/SQL  knowledge,  mainly  Oracle 
+
+RDBMS.  
+
+•  2 years of exposure in Data Warehouse & Business Intelligence development, implementation and design 
+using  Oracle  Technologies:  Oracle  Warehouse  Builder  10g  R2,  Analytic  Workspace  Manager,  Oracle 
+Discoverer for Business Intelligence Reporting. 
+
+•  Designing business workflows, business processes and integration with external systems 
+•  Database  Application  &  Oracle  Performance  Tuning  involving  database  tuning:  SQL,  PL/SQL 
+
+Optimization in Oracle 9i and 10g, Data Warehouse ETL optimization. 
+
+•  Experience to define and validate the development processes, methodologies, and CMMi standards. 
+•  Exposure of ERP Modules, such as General Ledger, Accounts Payables, Accounts Receivables, Inventory 
+Management,  HR  and  other  modules  specific  to  industries  such  as  Equity,  FIS,  Money  Market,  Risk 
+Management  System,  Portfolio  Management  System,  Fixed  Asset  Management,  Customers  Order  Tracking 
+and Reporting Modules. 
+ 
+ 
+
+Achievements Summary: 
+ 
+During my versatile professional career, I was able to: 
+ 
+•  Successfully  manage  and  implement  Multi-Markets,  Multi  Clients  and  Multi-Currency  OMS  (Order 
+Management  System)  and  Margin  Trading  system  from  Requirement  Analysis  phase  till  Production 
+deployment and support for UAE, Bahrain, US, Euro, Saudi Arabia, Bahrain and Asian markets 
+
+•  Launch enhanced web-based applications, desktop and mobile apps (iPhone, iPAD, Android, Tablets) for 
+
+Stock Trading. Managed design, implementation, UAT and production roll-out 
+
+•  Manage and implement complex Institutional Trading Features including Desk/Work Orders Management 
+
+and Multi Customer Orders Management     
+
+•  Design and manage automated and centralized MIS for current organization  
+•  Design and implement Equity Short Selling product for US and regional markets 
+• 
+
+Implement HTML 5 based software products in organizations for Stock Trading. Managed full life-cycle from 
+gap analysis phase till production go live phase 
+
+Implement Data Warehouse and BI Reports for Royal Bank of Scotland/ABN AMRO  
+Implement CRM for current organization initially SALESFORCE and then ZOHO CRM 
+
+• 
+• 
+•  Document  requirements  and  managed  projects  for  well-known  organizations  like  Mubasher  Financial 
+Services,  Al  Rajhi  Capital,  HSBC,  Global  Investment  House,  RBS/ABN  AMRO,  SAMBA,  Alinma 
+Investments and so on   
+Implement  many  business  products  for  many  organizations  such  as  Equity  Trading,  Futures  &  Options 
+Trading, Margin Financing, Islamic Margin/Murabaha System and so on  
+
+• 
+
+ 
+ 
+Technical summary: 
+ 
+
+Operating Systems 
+ 
+Languages and Environments 
+
+Databases 
+Project Management Tools 
+
+Other Tools 
+ 
+
+Business Domains 
+
+Application Server/ Web Server 
+
+Windows NT, XP, 2000, Windows 8.1 
+
+SQL,  PL/SQL,  Oracle  Developer  2000  (Form  Builder  &  Report 
+Builder), Oracle Warehouse Builder 10g R2, Analytic Workspace 
+Manager, Oracle Discoverer, Oracle SQL Tool Kit, HTML, UML, 
+JSP, Java, Dot Net (C-Sharp, ADO.NET), VB 6.0, Brio SQR. 
+Oracle, SQL Server, Progress 
+MS Project, IPM, JIRA, Visual Studio 
+
+MS Office 2013 (MS Excel, Power Point, Word), Toad for Oracle 
+8 and 9, PL/SQL Developer 2000, Quest SQL Navigator 5.5, MS 
+Visio,  Snag  IT  9,  Ultra  Edit,  Macromedia  Dreamweaver,  SQL 
+Server 2000 client and server tools, ERWIN. 
+Financial  Services,  Capital  Markets,  Brokerage  Back-Office 
+Systems,  Retail  &  Institutional  Trading  Systems,  Value  Added 
+Services,  Margin  Trading/Financing,  CRM  (Salesforce.com, 
+Zoho) 
+IAS, Bea Web Logic, Oracle Application Server 
+
+ 
+ 
+Education 
+ 
+BS Computer Sciences, University of South Asia, Lahore 2004 (C.G.P.A. = 3.37) 
+F.Sc. Pre-Engineering, Govt. College of Civil Lines, Lahore 1998 (1st Division/70%) 
+Matriculation (Science), Omar Bin Al-Khattab School, Sharjah, UAE 1996 (1st Division/77%) 
+
+ 
+
+Personal Information 
+ 
+
+Nationality:  
+
+ 
+
+Pakistan 
+
+Date of Birth:    
+
+29-SEP-1980 
+
+Religion:  
+
+ 
+
+Islam 
+
+Marital Status:  
+
+Married 
+
+Dependents: 
+
+ 
+
+4  
+
+

@@ -1,0 +1,191 @@
+Le Long 
+
+Email Address: ​le.long.nus@gmail.com 
+
+HP Number: (+65) 91990178
+ 
+Education: 
+National University of Singapore - ​Aug 09 – Dec 13 
+
+●
+
+Bachelor in Information System (Honor) 
+
+A*Star Scholarship for Young Researcher – NUS High School - ​Dec 04 – Dec 08 
+
+● Major with honor in Mathematic, Physic, Chemistry and History 
+●
+●
+
+Selected for Ritsumeikan Super Science Fair – Kyoto, Japan 
+Completed with High Distinction 
+
+Proprietary Scholarship for Undergraduate – NUS - ​Aug 09 – Dec 13 
+
+● Major with honor Information System 
+
+ 
+Work Experience: 
+Prime Now, Amazon Singapore -​ Oct 17 - Present  
+Business Analyst  
+Skills:​ Amazon Web Service (Redshift, Glue, S3, etc), SQL in multiple dialects, R, Python  
+ 
+
+Building the company’s weekly/monthly reports and support the team in making strategic decisions:  
+
+Building weekly business review reports for Prime Now business, Prime business and Global Store in Singapore.  
+Provide team with insights and support in term of researching data.  
+Building and maintaining data pipeline using in-house tools and AWS tools.  
+Building dashboards and top-level analysis to aid business.  
+Reports replaced the existing reports and improve on visibility to business for senior business leaders.  
+
+●
+●
+●
+●
+●
+● Working with multiple business teams (Marketings, Instock Managers, Vendor Managers, Project Managers, 
+
+etc.) to provide them with crucial metrics to make important decisions. 
+
+● Working with international teams to bring data pipelines to Singapore Prime Now teams. 
+
+ 
+
+Perx Technologies, Singapore - ​Nov 16 - Oct 17 
+Senior Data Technologist 
+Skills:​ ​Python, Amazon Web Service (EC2, S3, RDS, etc.), PostgreSQL, MySQL 
+
+ 
+Building company’s data warehouse and machine learning infrastructures: 
+
+● Designing processes for all data pipelines in the company. 
+●
+Building dashboards and top level analysis to aid business. 
+●
+Building recommendation engines and predictive model to fulfil several business requirements 
+●
+Building API to serve data from recommendation engine to third party vendors and other inhouse services 
+
+ 
+ZALORA Group, Singapore - ​June 15 – Nov 16 
+Head of Marketing Automation - Marketing System - Development 
+Skills:​ ​Python, Amazon Web Service (EC2, S3, RDS, etc.), Google Cloud Computing Platform (BigQuery, Cloud Compute Engine, etc.), 
+Machine learning. 
+
+ 
+Develop Marketing System and Automate Marketing Process: 
+
+● Overseeing infrastructure implementation of Marketing Support System 
+●
+●
+
+Implement new technology (Google, Facebook, etc.) into Marketing processes 
+Integrate Google BigQuery for Marketing Attribution Models 
+
+ 
+Catalog Sorting – Analyst and Engineer: 
+
+●
+●
+
+●
+
+ 
+
+Lead analyst and engineer of Catalog Sorting System using Google Bigquery and Amazon Web Services. 
+Conduct products sorting on main catalogue based on historical performances to control what users see on 
+search and catalog pages. 
+Incorporate analysis and an extend of evolving model for backward analysis. 
+
+Machine Learning – Application in Marketing Reports and Processes: 
+
+●
+●
+
+Spearheading applying Machine Learning in various analysis used for decision making. 
+Incorporate new technology offered by Google Cloud Platform to do so (Datalab, TensorFlow, Bigquery) 
+
+ 
+ZALORA Group, Singapore - ​June 14 – June 15 
+Senior Data Engineer - Marketing System - Development 
+Skills:​ ​Python, Django, Scrum, Agile Computing, Server Deployment, SQL, Amazon Web Service (EC2, S3, RDS, etc.), Google Cloud 
+Computing Platform (BigQuery, Cloud Compute Engine, etc.) 
+
+ 
+Develop Marketing System and Automate Marketing Process: 
+
+Setting up EC2 instances to automate database updates between databases 
+Integrate Google APIs to automate several processes 
+Integrate Google BigQuery for Marketing Attribution Models 
+
+●
+●
+●
+● Using Google Tag Manager for implementing 3rd Partners’ remarketing tags for better retargeting as well as 
+
+existing customer exclusion in prospecting campaigns. 
+
+ 
+Coassets Pte Ltd - ​December 13 – June 14 
+Senior Software Engineer 
+Skills:​ ​Python, Django, Scrum, Agile Computing, Git, Server Deployment, SQL 
+ 
+
+Website development on Django framework: CoAssets (www.coassets.com) platform for crowd funding of Real 
+Estate: 
+
+●
+●
+
+Implement and maintain user and company custom profile pages similar with company pages in Facebook. 
+Implement and maintain iterations of Machine Learning system (with implications to produce meaningful 
+newsfeed and recommendations for investment opportunities). 
+Implement and maintain iterations of Event booking and payment modules. 
+
+●
+● Ongoing development and maintain of whole system. 
+●
+Following Agile Software Development Methodology. 
+
+ 
+KISS Report: Aid tools for users to make decisions in real estate investment (kiss.coassets.com): 
+
+● Worked on Data Processing and PDF manipulation to produced customised reports based on users' reference - 
+
+build everything from ground up. 
+Interact with various custom API to produce meaningful informations and present it in the format of PDF for 
+users. 
+Report is widely used by various Singapore Real estate companies. 
+
+●
+
+●
+
+ 
+Electronic Arts Asia Pacific Pte Ltd, Singapore - ​Dec 10 – Dec 13 
+Quality Assurance Tester, Freelancer  
+Skills:​ ​Python 
+
+● Quality testing software  (for UI/UX ) for entertainment software products. 
+●
+
+Promote to Freelancer position for quality testing and Vietnamese localization experts (Dec 2011). Gained 
+valuable experience looking at software from users’ perspective and working within tight requirements. 
+
+ 
+Bank of America – Merrill Lynch - ​Jan 12– July 12 
+Business Technology Analyst 
+Skills: ​Java, Scrum, Agile Computing, Git, SQL 
+
+● Worked in Equity Linked Technology – Life Cycle team 
+● Worked on Quote Viewer – System with 3 parts (Adaptors, Server and Client app) to allow traders to view 
+
+information on financial quotation of instruments on current exchanges. The system also communicates with 
+BoA internal pricing engine to compute the estimated price. 
+
+● Negotiated with Project Managers and end users (traders) from Hong Kong 
+● Gained valuable experience working as developer and analyst. 
+● Gained recommendation letter from Director of Equity Linked Technology – APAC 
+
+

@@ -1,0 +1,152 @@
+Khanh	Linh	Nguyen	
+
+khanh.linh.nguyen.ntu@gmail.com	|	(+65)	93489706	
+
+	
+
+EDUCATION	
+Nanyang	Technological	University																																																																																			2014	–	2018	(Expected)	
+
+•  Bachelor	of	Computer	Science,	Specialisation	in	Information	Systems	,	Minor	in	Business				
+•  Expected	2nd	Upper	Class	Honors	
+
+	
+AWARDS	
+•  A-star	Pre	University	Scholarship	Holder																																																																																																										2010																																																			
+•  NTU	College	Scholarship	Holder																																																																																																																											2014	
+•  Silver	Medal	for	Chemistry	Singapore	Olympiad																																																																																																																		2013	
+•  Silver	Award	in	Malay	Dance	at	Singapore	Youth	Festival																																																																																2012	
+•  Distinction	Award	in	Harmonica	Band	at	Singapore	Youth	Festival																																																																																2013	
+•  Platinum	Award	for	Social	Services	(completed	more	than	200	hours	of	volunteer	work)																					2014	
+
+	
+WORK	EXPERIENCE	
+Visa	
+System	Analyst	Intern																																																																																																																								May	2017	–	July	2017	
+•  Gathered	users’	requirements	and	implemented	interactive	reporting	systems	for	process	improvement	
+
+using	Sharepoint	Developer,	Infopath,	HTML,	CSS,	Excel,	SQL	
+
+•  Successfully	saved	weeks	of	human	effort	by	auto	data	retrieval	and	auto	asset	update	workflow		
+•  Actively	performed	project	management	tasks	by	communicating	with	external	stakeholders,	scheduling	
+
+tasks	for	site	engineers	for	server	installations	in	Thailand	and	Vietnam	
+
+•  Wrote	many	batch	scripts	and	automated	jobs	to	retrieve	business	data	and	send	to	business	users,	
+
+saving	hours	of	manual	works	
+
+	
+Autodesk	
+Data	Analyst	&	Web	Developer	Intern																																																																																													Jan	2017	–	May	2017	
+•  Designed	and	developed	several	interactive	dashboards	for	data	analytics	and	visualization	using	MSSQL,	
+
+R,	Tableau,	which	helps	senior	managers	making	better	decisions		
+
+•  Developed	entire	front-end	UI	for	Business	Service	Tracker	Website	using	HTML,	Javascript,	PHP,	SQL,	
+
+improving	readiness	and	reducing	time	taken	to	fill	up	the	form	by	more	than	80%		
+
+•  Completed	hosting	web	services	and	security	configuration	(SSO,	SSL)	for	several	internal	sites	
+•  Contributed	in	end-to-end	development	lifecycle	of	NextPLM	(Product	Lifecycle	Management)	product	
+•  Enhanced	automation	and	E2E	test	features,	UI	debugged	for	NextPLM,	receiving	many	positive	
+
+feedback	from	fulltime	colleagues	for	my	contribution	and	helping	them	save	days	of	manual	work	and	
+testing	
+
+	
+Citibank	
+Summer	Technology	Analyst																																																																																																													May	2016	–	July	2016	
+•  Successfully	 automated	 and	 optimized	 the	 Client	 Onboarding	 Procedure	 with	 Sharepoint	 Workflow,	
+
+Infopath,	Javascript,	SQL,	which	saves	weeks	of	manual	works	
+
+•  Prepared	documentations	to	describe	new	process	for	applications	and	future	maintenance,	receiving	
+
+many	good	compliments	from	users	in	other	business	functions	
+
+•  Performed	User	Acceptance	Testing	(UAT)	with	various	internal	stakeholders,	ensuring	the	running	time	
+
+and	precise	data	input	sent	to	database	
+
+•  Performed	daily	batch	jobs	and	write	scripts	for	ad	hoc	tasks	in	Unix	cloud	server	
+•  Actively	participated	in	organizing	annual	Citi	volunteer	events	for	full-time	staffs	and	fellow	interns.	
+
+	
+	
+	
+
+Instant	Edge	
+Front-end	Web	Development	Intern																																																																																																Nov	2015	–	Jan	2016	
+•  Developed	the	entire	website	for	the	company	to	introduce	new	products	features	preparing	for	
+
+launching	using	HTML,	Javascript,	AngularJS,	D3JS	
+
+•  Familarized	with	code	structure	and	the	MVC	architecture	for	backend	development	
+• 
+•  Researched	about	the	business	context	of	the	company’s	product	and	gave	recommendations	to	
+
+Identified	use	cases,	building	web	pages	and	conduct	manual	testing	for	bug	fixings	
+
+the	founders	about	some	of	the	feature	changes		
+	
+
+G-college	Singapore	
+Product	Management	Lead																																																																																																																										2015	–	present	
+•  G-College	is	a	non-profit	education	start-up	founded	by	a	group	of	students	in	NTU,	that	aims	to	
+transform	the	learning	mindset	and	skill	set	of	students	in	Vietnam.	We	provides	a	free-of-charge	
+training	program	to	prepare	interested	students	for	the	Singapore	University	Entrance	Exam,	through	
+which	we	promotes	the	values	of	self-discipline,	independence	and	pro-activeness	in	learning.		
+Lead	a	team	of	5	members	to	take	charge	of	preparing	materials	for	the	training	program	for	various	
+subjects	such	as	Mathematics,	Physics,	Chemistry,	English	
+
+• 
+
+•  Make	speech	in	some	of	the	high	schools	in	Vietnam	to	introduce	about	our	program	and	
+
+curriculum	as	well	as	Singapore	education	opportunities	
+
+•  Act	as	contact	point	to	answer	enquiries	from	students	and	parents	in	Vietnam	
+•  So	far,	10	students	successfully	received	admission	letter	from	NUS,	NTU,	SMU	after	going	through	our	
+
+program	
+
+	
+Nanyang	Technological	University	
+Teaching	Assistant,	Computational	Thinking	Course																																																																										Nov	2017	–	present	
+•  Develop	materials	and	assignments	in	Python	game	for	an	introductory	Python	programming	course,	
+
+significant	improves	the	way	new	students	learn	programming	in	much	more	interactive	way,	receiving	
+many	positive	feedbacks	from	students’	survey	
+
+•  Lead	discussion	groups	with	students	during	tutorials	and	answer	enquiries	of	students	about	the	
+
+contents	of	the	module.	
+
+	
+SKILLS	
+•  HTML,	CSS,	Javascript,	D3JS,	SQL,	Tableau,	R,	Python,	Java,	Excel,	VBA,	Sharepoint,	InfoPath,	Selenium	
+•  Data	Analysis,	Public	Speaking,	Leadership,	Event	Planning,	Project	Management	
+	
+OTHER	EXTRA-CURRICULAR	ACTIVITIES	
+NTU	Student	Ambassador																																																																																																																																			2016-2017	
+• 
+Interacted	with	and	delight	over	1,500	guests,	visitors,	prospective	students	and	parents	through	campus	
+tours,	NTU	Open	Day,	NTU	Admission	events		
+
+•  Promoted	a	vibrant	student	life	and	world-class	university	image	
+	
+WebMaster	Committee	Earthlink	Club																																																																																																														2015-2017	
+•  Maintained	and	implemented	new	features	for	club’s	current	website	regularly		
+•  Promoted	various	club’s	activities	among	NTU	community		
+	
+Events	&	Sports	Committee	Computer	Engineering	Club																																																																														2015-2016	
+• 
+Led	group	of	8	members	to	organize	various	school	events	such	Harcharan	Singh	Challenge	Games,	Dinner	
+&	Dance,	Techfest	for	more	than	300	students	
+
+•  Took	 part	 in	 several	 fundraising	 events	 through	 campus	 donation,	 campaign	 and	 charity	 sales,	
+
+successfully	raised	more	than	$2000	to	prepare	for	other	school	events	in	the	future	
+
+

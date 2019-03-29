@@ -1,0 +1,217 @@
+ 
+
+Alfred Ang Teck Shin 
+
+AlfredAngTS@gmail.com // Telephone: +65 9782 4873 // https://linkedin.com/in/alfredangts/ 
+
+ 
+
+ 
+
+ 
+
+Education 
+ 
+ 
+Nanyang Technological University  
+ 
+B. of Sc. in Physics (Major in Theoretical Physics) 
+Expected Second Upper Honours, GPA: 4.20 
+   
+Received NTU President Research Scholar Award 
+Relevant Coursework: Econophysics, Statistical Mechanics 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+Uppsala University, Sweden   
+Academic Semester Exchange 
+Academic Projects 
+Statistical Analysis on Cryptocurrencies: Bitcoin, Litecoin & Ripple 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+August  2015  –  June  2019 
+
+ 
+
+August  2017  –  Dec  2017 
+
+- 
+
+Jan  2018  -  Present 
+Implementation  of  Python  scripts  for  calculating  short-term(autocorrelation)  and  long-term 
+memory (Hurst Exponent) of price time-series data.   
+
+ 
+
+ 
+
+ 
+
+-  Calculated coin-price correlation, and Granger Causality between the cryptocurrencies.     
+- 
+
+Established  relationship  between  cryptocurrency  prices  and  Google  Trends  data,  with 
+emphasis zero-lag interday cross correlation, which is of high significance in  observing price 
+movements. 
+
+ 
+Student Researcher 
+Biometrics and Forensics Lab, Nanyang Technological University 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+July 2016 – July 2017 
+
+ 
+ 
+
+- 
+-  Analysed  possible 
+
+Spearheaded study with a team of 4 on Car plate recognition(CPR) in the Singapore context 
+implementations  of  CPR  technology  and  created  guidelines 
+
+for 
+
+data-collection, a result of 117k RGB images were collected. 
+Identified  bottlenecks  in  workflow  and  implemented  new  code  in  MatLab  to  expedite  data 
+wrangling 
+Published a paper that was circulated internally in NTU 
+
+- 
+
+- 
+
+ 
+
+ 
+
+ 
+
+August  2015  –  June  2016 
+
+Volunteer Experience   
+Business & Fund-Raising Associate 
+SPMS Club Project EPEKTO 2016, Pangasinan, Phillipines 
+Project vision: Empowerment through Education 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+- 
+-  Organized  a  car-wash  event  to  raise  funds  with  a  team  of  22  people,  and  through  active 
+
+publicity and marketing, raised $450 exceeding initial expectations by 150% 
+
+-  Communicated to Pilot Pen Company that our goals were aligned with their outreach arm and 
+
+convinced the company to place a sponsorship of $200.   
+
+Pro-Bono Student Mentor 
+Helping O-Level Pupils Excel (HOPE) Programme, Fuhua Secondary School 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+      2011  –  2012 
+
+-  Constructed personalised lesson plans for 3 students under my charge 
+-  Diagnosed  issues  in  grasping  fundamental  concepts  and  stimulated  deeper  understanding, 
+
+and enabled mentees to achieve As for Math and Sciences   
+
+-  Received Friend of Fuhua Award for services rendered as a student mentor 
+
+Skills 
+
+IT Skills 
+ 
+Languages  
+
+| 
+| 
+
+Proficient in Python, C++, MatLab, Markdown, Excel, LaTeX, Git   
+Proficient in English, Mandarin 
+
+ 
+ 
+
+

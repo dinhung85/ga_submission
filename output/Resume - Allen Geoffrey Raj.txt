@@ -1,0 +1,134 @@
+Allen Geoffrey Raj X 
+
+Phone: +65 94854934                                                                                                                                      346 Pasir Panjang Road, 
+Email: geoffreyraj@gmail.com                                                                                                                #01-03, West Park Regency, 
+Singapore - 118687 
+
+About me 
+
+With 4 years of experience in Marketing, Strategy and Analytics, I am an ambitious person with strong problem-solving 
+skills, recognized by the top management for giving innovative ideas. 
+
+Education 
+
+•  M.Tech in Business Analytics from ISS, National University of Singapore (NUS) (2017 – 18) -  CGPA 4.79/5 
+•  MBA in Finance from Loyola Institute of Business Administration, India (2011 - 13) – CGPA 6.83/9 
+•  B.E. in Computer Science from Anna University, India (2007 – 11) – Marks 78.88%  
+
+Analytical Skills 
+
+•  Regression  modeling,  Clustering,  Bayesian  modeling,  Decision  Trees,  Random  Forest,  Neural  networks,  GLM, 
+Ensembles, Forecasting, Recommendation systems, Natural Language Processing, Machine Learning, Optimization, 
+Customer life time value, wallet estimation, Market Basket Analysis, RFM Analysis, Dimension reduction 
+
+•  Tools: R, Python, Tableau, SPSS, JMP, MS Excel, SQL 
+•  Google Adwords certification in Fundamentals and Search advertising 
+
+Work Experience (4 years) 
+
+•  Marketing Analytics, NTUC Income 
+
+August 2017 – present 
+
+•  Built a predictive model that will predict the trend to set daily sales targets for online products 
+•  Built an optimization model to determine the amount to be invested in advertisements on each day 
+•  Designed a marketing dashboard using Tableau for the management to understand the performance of 
+
+different products sold online 
+
+ 
+
+•  Business Analytics Projects 
+
+ 
+
+•  Built a predictive model using Multiple Linear Regression to predict the number of paved roads in a district in 
+
+India based on its literacy, population and other socio-economic factors 
+
+•  Built predictive models using TAN and Naïve Bayes networks to predict the level of injury during an accident 
+•  Conducted an Ad-word campaign and for a non-profit organization in Singapore as part of the curriculum and 
+
+Google Online Marketing Challenge 2017 
+
+•  Built an ensemble model of neural network models and generalized linear model to forecast the daily demand 
+
+of two-wheeler and compared the performance against individual models 
+
+•  Built a transfer function model to forecast the rice price index of Singapore based on the global rice export price 
+
+of Thailand 
+
+•  Built a predictive model that can predict the age of a person from EEG signals and hypnogram cycles 
+•  Developed  a  prototype  for  promoting  the  idea  of  active  ageing  in  Singapore  by  analyzing  the  primary  data 
+
+collected through survey 
+
+•  Estimated the economic health of Singapore in 2016 by analyzing economic KPIs and visualized the results in 
+
+Tableau  
+
+•  Developed an algorithm to implement on-demand public bus service in Singapore for Joo Koon area. Simulation 
+
+was done to show the optimization. 
+
+•  Assistant Manager, Strategy, Essilor India Pvt. Ltd. 
+
+Feb 2016 – Dec 2016 
+
+Accomplishments 
+•  Developed a 5 year strategy roadmap for the company 
+• 
+•  Analyzed the sales data to ensure the performance of each of the partner entities are aligned with the strategy 
+
+Identified cities for expanding the distribution 
+
+roadmap. In case there is a gap, suggested initiatives to build the gap 
+Identified potential acquisition targets from the market and analyzed if it would be a strategic fit 
+
+• 
+
+ 
+
+•  Assistant Manager, Group Marketing, Essilor India Pvt. Ltd. 
+
+Aug 2014 – Jan 2016 
+
+Accomplishments 
+•  Arrived at the volume targets for various product categories and brands for all partner companies 
+•  Analyzed monthly performance of each of the group companies  – product category wise &  brand wise and 
+
+suggested interventions/ initiatives for few products 
+
+•  Analyzed  various  schemes  proposed  by  the  product  team  and  suggested  which  scheme  to  be  implemented 
+
+when and measured the ROI at the end of each scheme. 
+
+•  Mapped city wise sales against spectacle wearers in each city and estimated the city wise market share 
+
+ 
+
+ 
+
+•  Management Trainee, Essilor India Pvt. Ltd. 
+
+August 2013 – July 2014 
+
+Accomplishments 
+
+•  Created a reporting system where all partner companies share a detailed report of their monthly performance 
+
+– Helped the top management understand in depth about the business 
+
+•  Mapped the products of Essilor with respect to competitors on price and position scale 
+•  Mapped the business of South region district wise and compared it against the potential of each of the districts 
+
+and highlighted the regions that need to be focused on 
+
+Awards and Recognition 
+
+•  President of the Student Committee for Student Chapter of The Singapore Computer Society 
+•  Won 3rd place in an Idea contest – “Innovative ideas to develop business” conducted in Essilor 
+•  Rated ‘Strong’ in Google Online Marketing Challenge 2017 
+
+

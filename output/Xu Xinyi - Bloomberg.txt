@@ -1,0 +1,103 @@
+Xu Xinyi
+
+˘ +65 9396 9005 • Q michaelxysg@gmail.com
+
+Education
+
+National University of Singapore (NUS)
+Double Degree in Computer Science (Hons) and Applied Mathematics
+Hwa Chong Institution
+A-level, GP(A) Economics(A) Maths(A) Physics(A) Chemistry(A) PW(A)
+Hwa Chong Institution
+Secondary 3 and 4, SMTP class, Integrated Programme
+
++
+
++
+
++
+
+Singapore
+Aug 2015 - Jan 2020
+Singapore
+Jan 2013 - Oct 2014
+Singapore
+Jan 2011 - Oct 2012
+
++
+
+Work Experience
+Singapore
+Data Analytics Intern
+Catena Technologies
+May 2018 - Jul 2018
+- Took initiative to learn about the trade reporting business and analyzed its procedures and thereafter
+designed several KPIs from the data analytics perspective. The KPIs were adopted by the team as
+performance metrics.
+
+- Designed and implemented an interactive dashboard in python, and incorporated it to company’s
+
+demo to clients and contributed to signing one of the largest clients.
+
+- Spearheaded in carrying out data analytics, in R and python and found previously undiscovered
+
+inter-correlations.
+
++
+
+Singapore
+Artiﬁcial Intelligence Engineer Intern
+May 2017 - Aug 2017
+Sompo Holdings
+- Self-motivated to pick up machine learning theories, and conducted reports and presentations, during
+which I explained clearly the complicated concepts. The reports and presentation decks were later
+circulated internally.
+
+- Implemented machine learning algorithms including SVM, RNN and RandomForest and I
+completed a research paper that served a key role in the company’s proof-of-concept
+project.
+
+- Coordinated and eﬀectively collaborated with diﬀerent teams members from US, Japan, India
+and Singapore. Took charge of overseeing the project progress and completed internal evaluation
+reports to the management level and received very positive feedback.
+
+Scholarship and Awards
++ Science and Technology Scholarship from NUS
+
+- Awarded for my junior college performance when I enrolled in NUS.
+
++ SM1 Scholarship from Ministry of Education
+
+- Awarded for my secondary school performance when I enrolled in Hwa Chong Institution.
+
+1/2
+
+ﬁltering.
+
+Projects
+
++ Implemented data modeling techniques and machine learning algorithms
+
+- Built a Tetris A.I. that could clear millions of rows.
+- Implemented a classiﬁer model that can classify a driver’s action with 80% accuracy.
+
++ Developed an interactive dashboard on ﬁnancial data
+
+- Developed components for real-time stock ticks and for live tweet feeds based on keyword
+
+- Scrapped the web for ﬁnancial data for selected companies and designed and implemented
+artiﬁcial intelligence and mathematical models to predict their future performances.
+
++ Financial statement analysis
+
+- Developed parallel programs to download and manage tera-bytes of data from SEC oﬃcial
+
+repository of public ﬁnancial statements of companies.
+
+- In progress of formulating algorithms and writing programs to automate data extraction and
+
+trend analysis.
+
+2/2
+
+

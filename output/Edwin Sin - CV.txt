@@ -1,0 +1,158 @@
+Singapore Citizen ▪ Block 102, Bishan Street 12, #21-280, S570102 ▪ (+65) 9271 3712 ▪ Edwin.sjh@gmail.com 
+
+Edwin Sin Jin Hua 
+
+Aug 2015 – Dec 2019 
+
+Aspiring data scientist with 2 years of experience in building and implementing data-driven models that transform data into value-adding, 
+actionable  insights.  Highly  motivated,  research-oriented  individual  with  strong  quantitative  aptitude,  computing  skills  and  sound 
+knowledge of finance and economic principles. Strongly passionate in tacking challenging business problems with data analytics solutions. 
+ 
+EDUCATION 
+Nanyang Technological University (NTU) 
+B.Sc. Mathematics and Economics; M.Sc. Financial Engineering 
+Second Upper Honors (Expected) 
+  Accelerated B.Sc.-M.Sc. Integrated Programme 
+  Nanyang Scholarship Holder 
+  Achieved Distinction for NTU’s Undergraduate Research on Campus Programme 
+ 
+Georgia Institute of Technology (GIT) 
+Semester CGPA: 3.16/4.00 
+ 
+  Achieved Distinction for CX4240 Introduction to Computational Data Analysis 
+ 
+Meridian Junior College (MJC) 
+Singapore-Cambridge GCE Advanced Level 2012 
+Rank Points: 88.75/90 (AAA/B) 
+  Awarded Academic Excellence Award (3H2 Distinctions) 
+ 
+WORK EXPERIENCE 
+Jan 2018 – Apr 2018 
+Business Development Intern (Part-Time), Taiger 
+  Drafted an extensive business proposal for a proposed EU’s Horizon 2020 project, Toreador, covering components such as market 
+
+Spring 2017 Semester Exchange Programme 
+
+Atlanta, United States 
+Jan 2017 – May 2017 
+
+Jan 2011 – Dec 2012 
+
+research, SWOT analysis and business strategy; draft was reviewed and accepted by Toreador Consortium’s reviewers. 
+
+  Conducted extensive quality assurance testing and debugging for Taiger’s new product; product gained IMDA’s accreditation. 
+  Built ontologies based on client’s requirements; work implemented in client’s project for production. 
+ 
+Teaching Assistant (Part-Time), NTU 
+Aug 2017 – Dec 2017 
+  Assisted a class of 40 students for MH2401 Algorithms and Computing course with their coursework; students successfully finished 
+
+their course project on modelling information spread over social networks using epidemiological models. 
+
+  Conducted consultations for selected students for coursework and test reviews; cleared students’ misconceptions. 
+ 
+Jun 2017 – Aug 2017 
+Data Analytics Intern, Monetary Authority of Singapore 
+  Researched on Deep Learning models for volatility forecasting in financial markets; presented weekly findings to the department. 
+  Produced a data scraping script in VBA for Bloomberg Terminal; retrieved 10 years’ historical datasets of 505 US companies. 
+  Produced a Proof-of-Concept of a Recurrent Neural Network model in Python to forecast volatility in S&P500 index; presented 
+
+research report and findings to the department. 
+
+ 
+Citi Banking 101 Foundational Programme, Citi 
+  Met with various bankers from Citi; learnt about the various functions and roles of all the departments in Citibank. 
+  Attended a workshop from Citi’s Innovation Lab; gained an understanding of the design thinking methodology. 
+  Worked on a case study on how big data and artificial intelligence can be used to help the bank. 
+ 
+Air Defence System Specialist, Republic of Singapore Air Force 
+May 2013 – Mar 2015 
+  Lead a team of 5 men assuming both the role of a Fire Unit Commander and Fire Unit 2nd In Charge for a unit; ensured operational 
+
+May 2017 – May 2017 
+
+ 
+
+readiness for both jungle and urban outfield deployments.  
+
+  Responded to an actual activation promptly while on a 24/7 manning duty for an urban deployment; awarded a commendation 
+
+badge for involvement in actual operations. 
+
+ 
+RESEARCH EXPERIENCE 
+Final Year Project (FYP), NTU 
+Title: Robust Real-Time Routing for Transportation Networks 
+  Researched on the problem of Stochastic On-Time Arrival for optimal, reliable routing in Singapore’s road network. 
+ 
+
+Implemented and evaluated 2 proposed algorithms and 3 optimization techniques from relevant literatures to improve both run-
+time  efficiency  and  performance  of  the  algorithms  in  Python;  final  routing  algorithm  produced  optimal  and  reliable  routes 
+consistently in the shortest time relative to conventional algorithms. 
+
+Aug 2017 – May 2018 
+
+ 
+Undergraduate Research on Campus (URECA), NTU 
+Title: Bitcoin Price Prediction using Ensemble of Neural Networks 
+  Researched on the application of ensemble of neural networks for predictive data analytics. 
+  Produced a data scraping script in Python; retrieved 2 years’ historical datasets across 9 different exchanges. 
+ 
+
+Implemented and evaluated a proposed ensemble model from relevant literature to forecast the next-day directional change in 
+Bitcoin prices in MATLAB; model achieved decent accuracy when compared with a trend-following trading strategy with a simple 
+back-testing framework.  
+
+Aug 2016 – Aug 2017 
+
+ 
+
+ 
+ 
+
+ 
+
+Jan 2017 – May 2017 
+
+CO-CURRICULAR ACTIVITIES 
+General Member, GIT Student Foundation Investment Committee 
+  Attended a mentorship programme; learnt about basic valuation methods and portfolio management. 
+  Researched on companies in the technology sector in US; presented company valuations through stock pitches. 
+ 
+Chief Business Manager, NTU Cultural and Activities Club Business Committee 
+  Reached out to 50 over companies to support NTU CAC’s causes; received overwhelming sponsorship for our events. 
+  Organized welfare giveaway events for the club’s population such as Exam Welfare Packs giveaway. 
+ 
+Marketing in Charge, NTU Hall 8 Community Involvement Programme Main Committee 
+Aug 2015 – Aug 2016 
+  Planned events for our beneficiary, Asian Women’s Welfare Association; organized day trips, party celebrations and centre visits. 
+ 
+ 
+Captain, MJC Wushu 
+  Lead the school team for a year; conducted weekly trainings and performances for school events; team achieved top 4 overall. 
+  Represented school in National Inter-School Wushu Championships 2011 – 2012; won top 4 for individual and group events. 
+  Awarded EAGLES Award 2011 - 2012, MJC CCA Service Award 2013 and MJC Colours Award 2013. 
+ 
+ADDITIONAL INFORMATION 
+  Language Skills: Proficient in written and spoken English and Chinese (Mandarin) 
+ 
+  Programming Skills: MATLAB (Intermediate), Python (Intermediate), Visual Basic for Application (Intermediate), Visual Basic 
+
+IT Skills: Microsoft Office (Excel, PowerPoint, Word), Photoshop, Web Deployment (cPanel, WordPress, Magento) 
+
+Successfully sourced for sponsors from companies and raised funds for our causes through internal hall events. 
+
+Aug 2016 – Dec 2016 
+
+Apr 2011 – Apr 2012 
+
+6 (Intermediate), Visual Basic .NET (Novice), C++ (Novice) 
+Interests: Code, Dance (Hip-Hop, Breakdance), Gym, Travel, Soccer, Wushu, Cryptocurrencies 
+Startup Experience: Startup Weekend Singapore Mega 2017 Hackathon Top 12 Finalist (Team Cookie) 
+
+ 
+ 
+  Case Competition Experience: SUTD-Inventis Case Competition 2017 Participant 
+ 
+
+

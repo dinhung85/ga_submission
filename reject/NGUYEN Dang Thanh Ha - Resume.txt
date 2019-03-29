@@ -1,0 +1,119 @@
+NGUYEN DANG THANH HA 
+
+ (+65) 84972075  |  dthnguyen.2015@sis.smu.edu.sg |  linkedin.com/in/ha-nguyen-dang-thanh/ 
+
+ 
+
+EDUCATION 
+
+SINGAPORE MANAGEMENT UNIVERSITY 
+-  Bachelor of Science (Information Systems) with 2nd major in Advanced Technology for Analytics 
+-  Expected date of graduation: May 2019 
+
+ 
+
+ 
+
+ 
+
+ 
+
+                                  Aug 2015 – Present  
+
+PROFESSIONAL EXPERIENCE 
+
+THOMSON REUTERS – Natural Language Processing (NLP) Engineer (Intern)  
+             May 2018 – Aug 2018 
+-  Supported Data Engineer team of 4 members to deploy the NLP deep learning model, which extracts structured 
+information from unstructured text, into the low-latency Thomson Reuters Intelligent Tagging (TRIT) platform 
+using Java. It is the same service that powers Thomson Reuters Eikon and Reuters News.  
+
+o  Developed a custom tokenizer that is used as the foundation for subsequent processors such as sentence 
+
+splitter, lemmatizer and part-of-speech tagger. 
+
+o  Performed micro-benchmarking to measure the performance of the deep learning model deployed. 
+
+-  Measured the semantic similarity of training text data and removed large number of similar texts.  
+-  Developed an assessment pipeline using Python to streamline the process of evaluating the accuracy of deep 
+
+learning models. This pipeline reduces the time for model evaluation by 1 hour.  
+
+-  Developed a custom web API demo of TRIT using Python for investment professionals. 
+
+GENERAL ELECTRIC (HEALTHCARE) – Business Analyst (Part-time Intern) 
+              Oct 2017 – April 2018 
+-  Collaborated with finance, operations and commercials departments to understand their needs to come up with 
+
+ 
+
+effective KPIs and explore possibilities of process improvements using data analytics. 
+
+-  Created  4  new  dashboards  that  streamline  the  decision-making  process  by  generating  real-time  analysis, 
+
+reducing more than 2 hours of creating weekly reports and set the cornerstone for more self-service analytics. 
+
+-  Spearheaded a business process documentation project with 3 other interns to enhance operational consistency 
+
+and set the cornerstone for future analytics initiatives.  
+
+SMU – TCS ICITY RESEARCH LAB – Data Science Research Assistant   
+- 
+
+                              May 2017 – Aug 2017 
+Analysed the sleep data of elderly in 2 years and utilized Extended Changepoint Model for Statistical Process 
+Control using Nonparametric Mann-Whitney test to detect abnormal changes in the sleep pattern of elderly. 
+Detection of such changes is important because it is the indication of a changing health pattern. 
+Researched and compared a new unobtrusive sleep monitoring method, which uses only motion sensors and 
+door contacts, with existing methods that are being used around the world to measure sleep quality. 
+Presented research findings in a technical paper  titled “Change Detection Method for Elderly Sleep Patterns 
+Using Motion Sensors” that is used for Internet of Things technology conferences.  
+
+- 
+
+- 
+
+LEADERSHIP EXPERIENCE 
+
+SMU Business Intelligence & Analytics – Curriculum Developer                                                                      Oct 2017 – Present 
+-  Design the curriculum for workshops on data analytics using Python and data visualization using Tableau. 
+-  Work with a team of 17 executive members to develop a community for everyone to learn analytics together. 
+
+SMU Project Chong Chong 6 – Team Leader  
+- 
+-  Organised a fundraising event and successfully raised around 2,000SGD to help the underprivileged children. 
+
+Led a team of 16 Singaporean members to a village in Cambodia – Vietnam boundary to teach English. 
+
+                Dec 2016 – Apr 2017 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+SKILLSET & OTHER INFORMATION 
+
+Programming Languages: 
+Tools: 
+Data Analytics Concepts: 
+
+Development Concepts:  
+
+ 
+
+ 
+
+Java, Python, SQL, HTML, CSS (In order of proficiency) 
+GitLab, Tableau, TIBCO Spotfire, SAS Enterprise Guide 
+Database  Design,  Data  Cleaning,  Data  Visualization, 
+Data Mining, Natural Language Processing 
+Test-driven  development,  Concurrent  programming, 
+Object-oriented programming 
+
+

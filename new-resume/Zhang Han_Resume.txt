@@ -1,0 +1,69 @@
+Zhang Han 
+Mobile: 97751995     Email: zhang.han1995@outlook.com 
+ 
+EDUCATION  
+National University of Singapore, Quantitative Finance                                             Jul 15 to present 
+•  Expected Date of Graduation: May 2019 
+ 
+•  Final Year Project: Machine Learning in Financial Time Series 
+ 
+INTERNSHIPS 
+Harveston Asset Management, Quantitative Research Intern 
+•  Researched and developed quantitative trading strategies based on pairs trading, correlation, and 
+
+Jun 18 – Aug 18 
+
+position line models using MATLAB and Python, with some long-short models achieving 
+annualized returns over 15% and Sharpe over 1  
+
+•  Collaborated in team of 3 in back-testing and improving of Forex and commodity trading strategies 
+ 
+Dymon Asia Capital, Risk and Data Analytics Intern                                                      Dec 17 – Apr 18 
+•  Created automation tools using VBA and SQL database programing to facilitate reporting and data 
+
+analysis; average reporting time was shortened from 1.5 hrs to 5 mins 
+
+•  Built statistical models to quantify market dynamics and linked with fund and PM performances  
+•  Analyzed and prepared daily reports on Funds’ positions, VaR, and Greeks etc. 
+ 
+Economic Development Bureau, Statistical Department, Summer Intern                  May 17 – Aug 17 
+•  Analyzed data and prepared monthly, seasonal, and bi-annual reports through collaboration with 
+
+accountants from corporations 
+
+•  Successfully organized an information sharing session with financial staff from over 40 corporations 
+
+and introduced the use of the government financial reporting platform 
+ 
+
+CO-CURRICULAR ACTIVITIES & LEADERSHIP EXPERIENCE 
+NUS Investment Society, Quantitative Research Analyst (QF Department)                 Aug 17 – May 18 
+•  Embarked on a 1-year project titled Portfolio Theory and deployed Black-Litterman model 
+•  Collaborated in a team of 6 to research, analyze, and prepare report to be posted on society’s website 
+ 
+NUS Chinese Culture Society (NUSCS), Marketing Director 
+•  Coordinated 20 members to form 4 groups, with each group targeting on one industry 
+•  Established long-term partnership with Industrial and Commercial Bank of China (ICBC) 
+•  Negotiated proposals and contracts with external vendors and sponsors. Raised over $8000 worth of 
+
+Apr 16 – Apr 17 
+
+sponsorship fees and goodies for large-scale events organized by NUSCS 
+ 
+
+Sep 16 – May 18  
+Initiated Songbird Project with HCA Hospice Care to provide hospice care for terminally ill patients 
+
+NUS Volunteer Action Committee (NVAC), Project Director 
+• 
+•  Spearheaded 5 teams of 5 to pay regular visit to patients’ home 
+ 
+ADDITIONAL INFORMATION 
+•  Proficient in MS Excel, PowerPoint, VBA, MATLAB, and R 
+• 
+•  Fluent in English and Mandarin (spoken and written); CFA Level II candidate 
+•  Enjoy doing handcraft, eg. embroidery; Enjoy music, formed a 4-member band. 
+
+Intermediate programming skills in Python, C++, SQL, and Tableau 
+
+

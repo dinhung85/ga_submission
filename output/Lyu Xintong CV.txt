@@ -1,0 +1,73 @@
+LYU XINTONG            
+isabellelyuxintong@gmail.com | 86799066 
+
+EDUCATION                                                                                                                                                                                                   . 
+Nanyang Technological University, Computer Science and Business Double Degree, 2016 – Current 
+•  GPA for computer science degree: 4.80/5, GPA for business degree: 4.82/5 
+•  Dean’s list for the year 2016-2017 
+ 
+WORK / INTERNSHIP                                                                                                                                                        . 
+HP Inc. (Singapore), College Intern, 2018.05–2018.08   
+Project 1: 
+•  Led a team of 5 and liaised with 4 countries to design and build databases for product/manufacturer/supplier management across the globe 
+•  Performed data analysis and modelling for more than 500 million data units to seek insights to design more efficient databases 
+•  Trained new employees from Singapore and Mexico to achieve smooth job handover  
+ 
+Project 2:  
+•  Designed and developed C# and VBA programs to automate work processes, reducing manual work and improving efficiency by 300% 
+•  Interviewed more than 20 employees to investigate and analyse their work processes to build strategic programmes 
+•  Shortened project development by 3 weeks, despite being new to C# and VBA and having to self-learn the skills 
+•  Selected to present the project to top management at the end of the internship and the programmes designed was adopted for future use 
+ 
+Deloitte (Singapore), Cyber Risk Advisory Intern, 2017.12–2018.01   
+Project 1: 
+•  Assessed networks to identify vulnerabilities, developed actionable plans for penetration testing according to the vulnerabilities analysis  
+•  Quickly learned network security and cryptography from scratch and applied to the projects  
+ 
+Project 2:  
+•  Initiated a project to automate report-writing after observing colleagues’ work routine 
+•  The automated process improves report-writing efficiency by at least 50%  
+•  Presented the proposal to the management and convinced the management to adopt the project for further development   
+ 
+Baicizhan (China), Operation Intern, 2017.05–2017.08    
+•  Gathered and interpreted market and user data, executed analysis and created growth and prediction models 
+•  Proposed new business opportunities, which were approved by the CEO, and lead a small team to work on the new project 
+•  Grew the user base to more than 50,000 from 30,000 within 3 months 
+ 
+Iron Pig BBQs Restaurant (China), Assistant Manager, 2016.01–2016.06 
+•  Took the initiative to create social media for the restaurant, lead the implementation of marketing strategies and made record-breaking revenue  
+•  Took the initiative to contact UberEats and other food delivery companies and negotiated profitable contracts 
+                  
+CO-CURRICULAR / LEADERSHIP                                                                                                                                     . 
+Conjunct Consulting, Associate Consultant, 2018.1-current 
+•  Working as an associate consultant in Conjunct Consulting, a social enterprise doing pro bono consulting for non-profit organisations  
+•  Developed impact assessment frameworks for Temple Garden Foundation (TGF), an UK-registered NGO based in Cambodia 
+•  Conducted data analysis and identified key indicators to measure the outcome and impact of TGF’s programs in Cambodia 
+•  Managed a good client relationship 
+ 
+Rolls Royce (Singapore), Project Consultant, 2018.01–2018.03 
+•  Lead a 4 people team to consult on a project from Rolls Royce(RR) under PEAK Leadership Programme 
+•  Conducted data analysis and modelling on air traffic data and fuel usage data  
+•  Designed a desktop and mobile application which utilises machine learning to optimise aircraft allocation to improve fuel efficiency  
+•  Won the first price in the PEAK Leadership Competition  
+•  Presented the project to the top management at RR and key stakeholders at SilkAir, the proposal was adopted by RR for further development 
+•  Invited to a 3-month full-time summer internship at Rolls Royce to continue overseeing the implementation of the project 
+ 
+School of Computer Science and Engineering (SCSE), Student Ambassador, 2018  
+•  Planned and organised NTU Open House 2018, which hosted thousands of visitors 
+•  Analysed historical open house data to plan tours and events strategically and divert traffic flow 
+•  Represented SCSE and gave speeches on the academic and student life in NTU to potential students and their parents    
+ 
+Nam Hwa Opera Limited, Event Organiser, Singapore, 2017.09-2017.10 
+•  Organised the charity dinner for the anniversary of Nam Hwa Opera Limited and the launch of Nan Hwa Music Ensemble at Singapore Expo 
+•  Awarded Certificate of Excellence In Promoting Chinese Heritage by a minister of Singapore 
+•  The collaborated effort helped to raise more than 2 million dollars in donation for Nam Hwa Opera 
+ 
+SKILLS                                                                                                                                                                                  . 
+Programming: Python, C, C++, C#, Java, R, SQL, Prolog, VBA, Javascript, node.js, TypeScript 
+Software Application: R-Studio, Tableau, Power BI, SAS, MATLAB, Microsoft Access, Microsoft Office, Photoshop, PremierePro, AfterEffect, 
+Lightroom 
+Language: English, Mandarin 
+ 
+
+

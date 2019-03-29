@@ -1,0 +1,132 @@
+danielleeweisheng@u.nus.edu | +65 9139 9991 | linkedin.com/in/danielleeweisheng 
+
+Daniel Lee Wei Sheng 
+
+EDUCATION 
+
+ 
+
+ 
+
+National University of Singapore         
+Bachelor of Business Administration (Major in Business Analytics and Finance)   
+•  Current Cumulative Average Point 4.71/5.00 (Prospective First Class Honours) 
+•  GIC Sparks and Smiles Award, Business School Career Services Office Ambassador                                                                                                                 
+•  Relevant Coursework: Quantitative Reasoning (A+), Financial Accounting (A), Business Law (A), Microeconomics (A-) 
+Anglo Chinese Junior College                                    
+GCE Advanced Level 
+•  Distinctions for Economics, Biology and Chemistry 
+
+                                                             Jan 2013 - Dec 2014 
+
+                                            Aug 2017 - May 2020        
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+WORKING EXPERIENCE 
+
+Eyeota Pte Ltd                                                                                                                                                            Aug 2018 - Present 
+Data Analytics Intern 
+•  Developed Python scripts utilising the Pandas library to automate the process of cleansing, organising and validating raw 
+
+data, containing Programmatic Advertising audience segments sold by various data publishers, to prepare the data to be 
+uploaded to Eyeota’s Audience Discovery Tool.  
+
+•  Applied Artificial Intelligence and Machine Learning to conduct data wrangling, mapping advertiser data to standardised 
+
+advertiser names and subcategories by using Python’s Natural Language Toolkit (Tokenisation, Stemming, Lemmatisation), 
+Word Vectors and Knowledge Bases 
+
+•  Coded PostgreSQL queries to extract and update data from Eyeota’s database to build reporting dashboards via Tableau 
+ 
+United Overseas Bank Limited (UOB)                                                                                                                 Jan 2018 – Jul 2018 
+Data Analytics Intern 
+•  Automated the tracking process of sending SMS surveys to the relevant customer leads by programming Excel VBA, 
+
+reducing the number of manual excel steps required by 92% 
+
+•  Analysed data using techniques such as text analytics, portfolio analytics to measure the performance of UOB's various 
+
+Business Units (Business Banking, Private Banking, Personal Financial Services) and Overseas Wings (UOB China, UOB 
+Indonesia) 
+
+•  Applied Importance-Performance Analysis (IPA) for each business unit, based on their respective survey’s key drivers, 
+
+employing logistic regression and multiple regression  
+
+•  Produced monthly as well as quarterly statistical reports and dashboards utilising the Business Intelligence tool MaritzCX, that 
+
+would be presented to UOB managing and executive directors 
+
+•  Computed the Customer Satisfaction Score (CSS) and the Net Promoter Score (NPS) for UOB’s various banking products 
+
+(Credit Cards, Housing Loans) by analysing customer survey data for the Customer Centric Strategic Initiatives Department 
+
+ 
+Perazim Marketing Pte Ltd                                                                                                                               May 2015 - Oct 2015 
+Marketing Assistant                              
+•  Created and operated the e-commerce website for the skin care product line named Super Facialist, resulting in over $1100 
+
+worth of online orders  
+
+•  Marketed the brand through social media outlets such as Facebook, leading to a larger than 100% increase in website visitors   
+
+CO-CURRICULAR AND EXTERNAL ACTIVITIES 
+
+Business School Alumni Association                                                                                                                       Jun 2018 - Present  
+Student Ambassador  
+• 
+•  Organised a networking event, attended by C-Suite level executives, as well as a mentorship programme to strengthen the 
+
+Interviewed alumni to co-author a published book containing their impactful life experiences 
+
+relationship between NUS Business alumni and students  
+
+ 
+
+ 
+
+ 
+
+ 
+BNP Paribas 
+Student Ambassador  
+•  Positioned as an instrumental part of BNP Paribas’s university campus marketing campaign 
+ 
+Beyond Social Services                                                                                                                                         Aug 2017 - Jun 2018 
+English Language Teacher  
+•  Lead weekly English Language lessons for a large group of preschool level children with certain students displaying rapid 
+
+                                                Mar 2018 - Present  
+
+ 
+
+ 
+
+ 
+
+ 
+
+progression from an inability to read and write, to being able to converse and write simple sentences   
+
+SKILLS 
+
+Languages: Native Proficiency in English, Novice Proficiency in Chinese 
+Technical Skills: Programming Languages: Python (Pandas, NumPy, Matplotlib, Natural Language Toolkit), Excel VBA, SQL 
+(MySQL, PostgreSQL), Business Intelligence Tools: (Tableau, MaritzCX), Software: (Bloomberg Terminal, Excel, PowerPoint), 
+Platforms: (Salesforce, Shopify) 
+Certifications & Training: Bloomberg Market Concepts 
+Interests: Automation, Machine learning, Data analytics, Alternative debt financing, Hiking trails, Exploring mountainous 
+terrain, Professional Cycling, Cricket 
+
+

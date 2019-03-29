@@ -1,0 +1,94 @@
+QI PENGYU 
+
+E-mail：qpy618@gmail.com                                Tel：+65-91753326 
+
+EDUCATION 
+
+MSc(Technology), Enterprise Business Analytics, National University of Singapore      2017.01——2018.06 
+
+  Raised  proposal  for  Research  on  the  trend  of  Singapore  Fertility  Rate  (R,  Tableau,  JMP,  GeNIe)  and 
+
+contributed to data analysis and report writing   
+
+  Led a group of 6 to conduct Research on NUS Campus Taxi Availability (R, SPSS, JMP, Arc GIS, Tableau) 
+
+  GPA:4.53/5 ranked top 3 among class   
+
+BSc, Material Science and Engineering, Shanghai Jiaotong University                              2011.09——2015.06   
+
+  Admitted with College Entrance Exam Score ranked 1% nationally and graduated with GPA ranking top 10% 
+
+  Main Courses: Advanced Mathematics, Probability and Statistical Inference   
+
+  Dissertation: Statistical Analysis of. Method Comparison studies Focused on Hardness Test (R, SPSS) 
+
+Summer School, Georgia Institute of Technology                                                                      2012.07——2012.08 
+
+  Elected as the exchange student on behalf of Shanghai Jiaotong University with final evaluation of 3A 
+
+ 
+
+WORK AND INTERNSHIP 
+
+Intern, Information Technology Division Contact Center, Singapore Airlines                    2017.08——2018.03 
+
+  Analyzed contact center noisy event log data, FB text and Twitter text using text mining methods including     
+
+association  analysis,  topic  modelling  and  sentiment  analysis  to  find  key  issues  of  SIA  call  center,  and  the 
+
+issues difference to between the customer tier 
+
+  Build classification models including supervised learning and semi-supervised learning from the social media 
+
+data to help company do the further customer improvement (R, Python, Tableau) 
+
+Management Trainee, Sales and Marketing, Nestlé (CHN)                                                      2015.08——2016.07                                       
+
+  Elected as the only sales and marketing management trainee in Nestlé center region of 2015 
+
+  Contributed to weekly and monthly sales KPI Metrics by forming dashboards and written reports, conducted 
+
+Sales target analysis using Excel, PowerPoint and illustrated the potential trend by R and Tableau 
+
+  Responsible  for maintaining  in-store  customer  relationship,  performing  and  executing  the  sales  promotion 
+
+activities provided by the company, achieving company target, and focusing on the sales data to boost sales 
+
+Summer Intern, Marketing Research, Ferrero (CHN)                                                                2014.07——2014.12   
+
+  Presented  data  visualization  reports  to  assist  with  customized  campaign  approaches  and  tracked  the 
+
+campaign sales achievement rate   
+
+Officer, Undergraduate Admission Office, Shanghai Jiaotong University                          2012.06——2013.07                               
+
+  Liaised  with  target  students  and  their  families,  encouraged  them  to  join  Shanghai  Jiaotong  University, 
+
+conducted management and maintenance of the students’ database 
+
+  Conducted strategy research regarding the recruitment of target students by statistical analysis of historical 
+
+data set from 2000—2012 and reached successfully recruitment strategy   
+
+ 
+
+EXTRA- CURRICULUM ACTIVITIES 
+
+President, Johnson & Johnson TLS Club, Shanghai Jiaotong University                          2012.09——2014.08 
+
+  Guided  a  team  of  40  to  win  the  “Best  Branding  Club”  and  the  “Best  Team  Building  Club”  among  all  the 
+
+career-development clubs in Shanghai Jiaotong University.   
+
+  Successfully led SJTU TLS Club to be elected as the top TLS among the whole 14 school clubs in 2013 J&J 
+
+summer camp. 
+
+ 
+
+AWARDS AND LANGUAGES   
+  2017  Google  Online  Marketing  Challenge  AdWords  Business  Semi-Finalist,  Top  15  in  global  GOMC  area 
+
+and 1st in Singapore area 
+
+

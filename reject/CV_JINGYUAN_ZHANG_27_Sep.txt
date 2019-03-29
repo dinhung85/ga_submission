@@ -1,0 +1,114 @@
+                  
+
+ 
+
+  E-mail: jingyuan.zhang@u.nus.edu TEL: 85792863 
+
+JINGYUAN ZHANG 
+
+ 
+
+ 
+
+ 
+
+       08-2017- Present 
+
+         09/2013-07/2017 
+
+EDUCATION BACKGROUND 
+National University of Singapore                                                                                                 
+•  Major: MSc Financial Engineering 
+•  Courses: Stochastic calculus and quantitative methods, Financial Econometrics, C++ in financial engineering, Derivatives and 
+fixed income, Risk analysis and management, Term structure and interest rate derivatives, Programming and numerical methods 
+•  Risk management project based on C++:  Upgraded a simplified risk management system include adding date test, change 
+interest rate from constant to time period-dependent, adding PV01 and Greeks calculation, adding one more product type  
+•  Research about Singapore and Hong Kong housing market based on R: fit the 4 housing index data (both condo and HDB 
+for Singapore and Hong Kong) with arima model with heteroscedasticity and adopt rolling-window technique in regression analysis 
+on the factors explaining for the possible difference between the housing markets 
+University of Nottingham, Ningbo, China (UNNC) 
+•  Major: BSc (Hons) Finance, Accounting and Management                                                     GPA: 3.63/4.0    
+•  Award: Head's Scholarship (20%) in freshman year; Dean's Scholarship (10%) in sophomore year; Nottingham Advanced Award 
+•  Courses: Financial Analysis, Financial Reporting, Financial Markets, Quantitative Methods 
+•  Financial Analysis Project: analyzed McCormick both quantitatively and qualitatively and forecast its financial condition through 
+the 3-statement financial modelling and concluded an accurate investment recommendation for investors 
+•  Database  Design  and  Implementation  Project:  proposed  a  database  system  to  facilitate  data  recording,  processing  and 
+storage  for  the  chain  café;  Information  from  the  database  can  also  be  used  for  business  intelligence  purposes,  enhancing  the 
+company’s understanding of the business and corresponding strategy adjustments 
+Copenhagen Business School                                            International Exchange Program Member                09/2015-12/2015 
+•  Strategic management project: Performed market analysis to forecast profit growth and recommend future strategies for Estee 
+Lauder company 
+•  Award: Chinese Government Scholarship 
+ 
+RESEARCH & INTERNSHIP EXPERIENCE 
+University of Nottingham, Ningbo, China (UNNC)                                                  Research Assistant 
+Environmental performance of enterprises 
+•  Reached out to financial personnel of 34 companies and successfully collected the financial reports for analysis purpose 
+•  Performed analysis on the correlation of the financial conditions and the environmental impact of these companies 
+•  Presented findings of the environmental performance to the professor for further academic research 
+Qilu Securities, Beilun Branch Office 
+         07/2015-08/2015 
+                    Assistant Analyst  
+•  Analyzed the financial condition of the ETF companies and forecast stock prices for 2 months using stata and prepared research 
+reports for senior analysts 
+•  Successfully retain existing customers and effectively attracted more than 20 new customers with in 1 week through roadshow 
+promotion during financial crisis 
+Dymon Asia Capital, Singapore 
+     Risk and Data Analysis Intern        08/2018- 
+•  Monitor risk and generated daily risk reports for Macro, Equity, Rates, FX and etc (mainly on market risk) and report to senior risk 
+analysts for further analysis 
+•  Maintain, add new feature to and consolidate the company’s existing risk management system  
+•  Apply VBA and SQL codes to improve the efficiency of the system and analyze risk data 
+ 
+EXTRA-CURRICULAR ACTIVITIES 
+Nottingham University Business School, UNNC                               Professional Community Member 
+•  Creatively developed marketing strategies to attract 23 new members  
+•  Organized sharing sessions for 15 groups and 13 managers to exchange ideas 
+Student Career Development Association (SCDA), UNNC                   Vice president of Project Office            09/2013-06/2015 
+
+         04/2016-10/2016 
+
+        03/2015-05/2015 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+•  Planned association recruitment for 2 years and admitted 36 members 
+•  Organized 2 Summer Internship Competitions, providing more than 50 internships for students 
+Career Development Office (CDO), UNNC                                Preparatory Member for Internship Fair             03/2014-05/2014 
+•  Liaised with more than 40 companies to obtain employer feedback and promoted future partnership opportunities 
+•  Organized UNNC Spring Internship Fair Invitation and followed up with later issues 
+
+VOLUNTEER EXPERIENCE 
+China Debate Camp 
+•  Arranged accommodation for more than 100 participants for 2 weeks 
+Lardinguish Primary School, Mirge Village, Nepal                                 
+•  Spearheaded a volunteer teaching program in Nepal 
+•  Led a group of 18 volunteers to provide teaching service for more than 100 underprivileged students in Nepal for 1 month 
+ 
+SKILLS AND INTERESTS 
+•  Software and programming skills: MS Office, VBA, SQL, Octave, Photoshop; C++, R (Basic); Python, Tableau (Learning);  
+•  Language: Chinese (Native); English (Fluent); French (Basic) 
+•  Professional certificates: ACCA Exams: all pass; FRM Level 2 candidate; CFA Level 2 candidate 
+• 
+
+Interest: Yoga, Workout, Painting, Table Tennis 
+
+07/2014-08/2014 
+
+07/2014 
+
+

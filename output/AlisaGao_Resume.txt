@@ -1,0 +1,102 @@
+Alisa  Gao  
+
+Mobile:  (65)  8540-­‐‑4062  
+
+Email:  alisa.ziyu@gmail.com    
+
+EDUCATION  
+National  University  of  Singapore,  Singapore  
+B.Sc.  with  a  Major  in  Statistics  (specialisation  in  Finance  and  Business  Statistics),  Honours  (Distinction)  
+Second  Major  in  Economics;  Minor  in  Financial  Mathematics  
+
+•   Coursework:  Linear  Regression,  Time  Series  Analysis,  Stochastic  Process,  Statistical  Method  for  Finance,  
+
+Investment  Instruments,  Econometrics,  Financial  Accounting,  Programming  Methodology  
+
+Stanford  University,  CA,  the  United  States  
+Summer  School  Exchange  Program  
+
+•   Coursework:  Data  Mining  
+
+  
+
+  Aug  2013  –  Dec  2017  
+
+Jun  2015  –  Aug  2015  
+
+  
+              Jan  2018  –  Present  
+
+WORK  EXPERIENCE  
+Carrots  Consulting,  Singapore    
+Analyst,  Total  Compensation  
+
+•   Performed  annual  review  of  compensation  plans,  leveraging  peer  benchmarking  and  market  pricing,  and  
+
+total  cost  impact  to  assess  the  client’s  market  positioning;  advised  best-­‐‑practice  to  close  the  gap  and  
+ensure  that  their  reward  programs  are  competitive.  
+
+•   Supported  consultants  in  data  assimilation,  statistical  modelling,  ratio  analysis  and  key  financials  
+
+calculation  using  Capital  Asset  Pricing  Model.  
+
+•   Modelled  salary  and  grading  structures  and  total  compensation  framework;  conducted  competitive  
+analysis  using  in-­‐‑house  and  external  databases;  analysed  the  financial  impact  of  alternative  designs.  
+•   Conducted  research  on  trends  and  developments  in  compensation,  including  relevant  legal  issues.  
+•   Prepared  reports  setting  out  findings;  guided  and  mentored  clients  on  the  recommendation.  
+•   Increased  efficiency  within  internal  project  teams  by  redesigning  Bloomberg  excel  template  to  improve  
+
+data  extraction  processes.  
+
+OCBC  Securities,  Singapore    
+Business  Analyst  Intern,  Global  Forex  
+
+•   Led  a  team  of  three  interns  to  investigate  Singapore  FX  market  and  deliver  a  marketing  project  
+
+      May  2017  –  Jul  2017  
+
+encompassing  the  competitors’  analysis  of  12  main  FX  brokerage  firms  in  Singapore.  
+
+•   Collaborated  with  Product  Management  department  and  Legal  department  to  update  the  FX  product  
+
+manual  to  ensure  the  margin  call  policy  presented  are  up-­‐‑to-­‐‑date  and  relevant  to  the  business.  
+
+RESEARCH  &  LEADERSHIP  EXPERIENCE  
+NUS  Business  Analytics  Centre,  Singapore    
+Part-­‐‑time  Research  Assistant  &  Teaching  Assistant  
+
+•   Provided  economic  and  statistical  research  support  by  gathering  data  from  relevant  institutions,  
+
+  
+      May  2016  –  Jan  2018  
+
+performing  comprehensive  explanatory  data  analysis  and  building  time  series  regression  models.    
+•   Drafted  two  research  papers  for  publication  based  on  research  methodology  and  analysis  results.  
+•   Assisted  the  professor  in  preparing  case  studies  and  lecture  slides  for  two  master  level  modules:  
+
+Analytics  in  Managerial  Economics  and  Quantitative  Risk  Management.  
+
+•   Tutored  students  in  R  programming  to  illustrate  quantitative  economic  analysis.  
+
+Aug  2015  –  Jun  2016  
+
+NUS  Investment  Society,  Singapore  
+Team  Leader,  Quantitative  Finance  Department  
+
+•   Fitted  Zura  Kakushadze’s  four-­‐‑factor  overnight  returns  model  on  a  dataset  containing  the  top  1000  
+
+liquid  tickers  in  NYSE  using  multilinear  regression  and  data  mining  methods;  tested  the  model  
+performance  through  cross  validation  and  selected  the  significant  predictors  by  stepwise  selection;  
+the  win  rate  of  our  prediction  model  is  62%.  
+
+•   Conducted  weekly  presentations  on  the  application  of  statistical  analysis  in  the  finance  industry.  
+
+SKILLS  
+Technical  Skills:  Excel,  PowerPoint,  R,  Python,  and  Bloomberg  
+Language:  Mandarin  Chinese  
+Certificate:  FRM  (level  I  and  level  II)  
+Interests:  Long-­‐‑distance  running  
+
+  
+
+

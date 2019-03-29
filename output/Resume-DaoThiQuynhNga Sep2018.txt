@@ -1,0 +1,230 @@
+DAO THI QUYNH NGA (JASMINE DAO)  
+ 
+
+ Email:  jasmine.dqn@gmail.com 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+  Skype: daoquynhnga1122 
+
+Contact Number:  (+84) 1227 265 363     
+
+     
+ 
+EDUCATION 
+Nanyang Technological University, Singapore 
+Bachelor of Engineering, Honors              
+ 
+SOFTWARE COMPETENCIES 
+Languages: PHP, JavaScript, Python, R 
+Databases: SQL (MySQL), Non-SQL (CouchBase, Solr, ElasticSearch) 
+Others: Apache, RabbitMQ, Electron JS, Excel VBA 
+Operating Systems: Linux, Mac OS, Windows 
+ 
+WORK EXPERIENCE 
+Datamart Solutions Pte. Ltd., Junior Data Engineer, Vietnam 
+                                    Jan 2018 - Present 
+  Build, maintain and monitor Analytics database to serve project-based demands of both internal and external clients         PHP, SQL, non-SQL, R 
+  Conduct research and execute plan with different departments to successfully launch a desktop app called PowerUp on Windows and MacOS; 
+
+                                          
+ 
+
+               Aug 2012 – Jan 2017 
+
+          
+ 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+monitor its upgrades and internal process flow 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+                        Electron JS, CSS 
+
+  Maintain, update and continually expand processes which conduct more than 1 million API calls per day between backend systems and major 
+
+e-commerce platforms in Vietnam: Lazada, Shopee, Haravan, Zalo 
+
+ 
+
+ 
+
+ 
+
+                                    PHP, ElasticSearch 
+
+  Design high-level data flow: from crawler system, to internal backend, to ETL processes, and to data aggregation processes for coming system 
+
+major upgrade; build preliminary core processes for this upgrade   
+
+ 
+
+      
+
+                                PHP, ElasticSearch, RabbitMQ 
+
+ 
+Sea Group (previously Garena), AirPay, Business Intelligence Associate, Singapore 
+  Timely extracted, analyzed data and generated ad-hoc reports in order to gain insights of and assess performance of marketing campaigns, 
+
+                                                    Jul 2017 – Sep 2017  
+
+ 
+
+through specific key indicators such as New User Acquisition Rate, Retention Rate 
+
+ 
+
+ 
+
+     
+
+            Excel, MySQL, Python 
+
+  Resolved mismatch in definitions of key performance indicators within department; successfully assembled and generated a standard 
+
+comprehensive daily marketing report to apply across S.E.A markets 
+
+ 
+Rolls-Royce Plc, Project Management Intern, Singapore 
+ 
+
+ 
+
+          
+
+ 
+
+ 
+
+ 
+
+                                 Jan 2015 – Jun 2015  
+
+In charge of overhauling the complete progress tracking for various projects within Computer Science department, by proficiently employing 
+Excel tools and VBA codes; made decision on what to include and how to present the new Tracking Report  
+
+  Convinced team leader to adopt the time-saving suggestions presented in the developed Tracking Report; the development achieved status as 
+
+monthly Six Sigma Yellow Belt Improvement Project for the department  
+
+  Conducted and relayed research on competitors’ computing-related patents via PatBase with a focus of faults detection via computerized 
+
+images; updated patents mapping over global market for further competitiveness landscape analysis by team leader 
+
+ 
+Sembcorp Industries Limited, Group Business Development Intern, Singapore  
+  Researched on and mapped out potential competitors and partners for two new thermal plants in Oman and South Africa 
+  Consolidated bidding statements for these two projects by coordinating the information among the departments; ensured compliance to local 
+
+                              May 2014 – Aug 2014 
+
+     
+
+ 
+
+government policies by collaborating with oversea colleagues; and assisted the Manager in negotiating agreements’ terms and tender 
+specifications with partners. Both projects were successfully accepted to the next round of qualification 
+
+ 
+Six Flags Amusement Park, Ride Operator, New York, USA  
+  Worked in an international team of 4 to safely operate and control rides in fast-paced and customer-oriented environment 
+  Recognized consistently for quick response in emergency and maintaining high working spirit by customers and supervisors 
+
+                      
+
+ 
+
+ 
+
+                                 May 2013 – Jul 2013 
+
+ 
+
+ACHIEVEMENT AND AWARDS 
+ASEAN Scholarship: Awarded to top students with outstanding academic and CCA performance                                                                      2012 – 2016 
+Singapore Welding Society Book Prize: Awarded to highest aggregated marks Material Science module                                                                      2013 
+Best Speaker, Toastmaster, Nanyang Technological University, Singapore 
+       2015 
+ 
+LEADERSHIP/ CO-CURRICULAR ACTIVITIES 
+Project Leader, Vietnam 2020, Polaris, Singapore 
+Vietnam 2020 is an organization tasked with uniting Vietnamese working professionals and higher learning students in Singapore. Polaris is a sub-
+committee in Vietnam 2020 with a focus on Singapore university students.  
+ 
+
+Led a team of 6 to conduct an informal event in promoting mutual sharing of current technology and applications which proved to be helpful 
+for independent learning  and professional development 
+
+                               Jun 2015 – May 2016 
+
+                            
+
+               
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  Delegated and oversaw work progress of publication and publicity, logistics, activities and feedback 
+ 
+Liaison Director, International Culture & Travel Fair (ICTF), NTU Students’ Union, Singapore 
+ICTF is one of the grandest annual events organized by NTU Students’ Union, aiming to promote cultural diversity in campus and advocate mutual 
+understanding. The event is annually supported by representatives of almost all nationalities in NTU. 
+ 
+
+Liaised with 8 International Committees and 5 Language Clubs pertaining to Fair’s performances and activities; increased the number of 
+Committees and Clubs’ participations by 9% (attracting more than 500 university students) 
+
+                                Sep 2013 – Feb 2014 
+
+ 
+
+  Guided Committees to gain 100% valid claims for reimbursement; compiled and classified under urgent deadlines 
+  
+OTHERS 
+Languages: English (Fluent), Vietnamese (Native), Japanese (Beginner) 
+Volunteering (TOUCH Young Arrows, Singapore, Apr 2017 – Oct 2017), Dance Sport, Backpacking, Reading biographies and culture-related books 
+
+
