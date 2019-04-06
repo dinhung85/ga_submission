@@ -6,6 +6,7 @@ import unicodedata
 import numpy as np
 import scipy as sp
 
+
 from nltk.corpus import stopwords
 from nltk import word_tokenize, sent_tokenize
 from nltk.stem import LancasterStemmer, WordNetLemmatizer,SnowballStemmer
@@ -25,18 +26,22 @@ pd.set_option('chained_assignment',None)
 nb = MultinomialNB()
 
 def get_all(folder):
-    _all = os.listdir(folder)
-    _all = [folder+'/' + i for i in _all]
+    # _all = os.listdir(folder)
+    import glob
+    _all = glob.glob(folder+'/*.txt')
+    # for file in os.listdir(folder):
+    #     if _file.endswith(".txt"):
+    #     os.path.join(folder, _file)
+    # _all = [folder+'/' + i for i in _all]
     return _all
 
 def extract_folder(folder):
-	text_list = []
-	for _file in get_all(folder):
-		stri = open(_file, 'r',encoding="utf8").read()
-		# stri = " ".join(stri.split()).translate(str.maketrans('', '', string.punctuation))
-		stri = " ".join(stri.split())
-		text_list.append(stri)
-	return text_list
+    text_list = []
+    for _file in get_all(folder):
+        stri = open(_file, 'r',encoding="utf8").read()
+        stri = " ".join(stri.split())
+        text_list.append(stri)
+    return text_list
 
 def reject_list():
 	return set(extract_folder('output')) - set(extract_folder('pass'))
@@ -126,12 +131,11 @@ def normalize(words):
     # words = replace_numbers(words)
     words = remove_numbers(words)
     words = remove_stopwords(words)
-    words = stem_words(words)
+    # words = stem_words(words)
     words = lemmatize_verbs(words)
     return words
 
 def tokenize_and_train(vect,X_train):
-    print(X_train)
     X_train_dtm = vect.fit_transform(X_train)
     print(('Features: ', X_train_dtm.shape[1]))
     return X_train_dtm
@@ -149,12 +153,15 @@ def run_test(X_test_dtm):
     # print(y_pred_class)
     return y_pred_class
 
-def metric(y_test,X_test_dtm):
-    from sklearn import metrics
-    y_pred_class = run_test(X_test_dtm)
-    print(('Accuracy: ', metrics.accuracy_score(y_test, y_pred_class)))
-    print(('Precision: ', metrics.precision_score(y_test, y_pred_class)))
-    print(('Recall: ', metrics.recall_score(y_test, y_pred_class)))
+def metric(y_test,y_pred_class):
+	from sklearn import metrics
+	print(('Accuracy: ', metrics.accuracy_score(y_test, y_pred_class)))
+	print(('Precision: ', metrics.precision_score(y_test, y_pred_class)))
+	print(('Recall: ', metrics.recall_score(y_test, y_pred_class)))
+    
+def lr_metric(y_test,lr_pred_proba):
+    print('ROC', metrics.roc_auc_score(y_true=y_test, y_score=lr_pred_proba> .5))
+    print('Confusion Matrix: ', metrics.confusion_matrix(y_true=y_test, y_pred=lr_pred_proba > .5))
 
 
 def predict(matrix):
@@ -174,38 +181,67 @@ def norminalize_all(pass_df):
 	    e = ' '.join(map(str, e))
 	    pass_df["text"][i] = e
 
-
-def combine_pass_reject_df(pass_folder,reject_folder):
-    pass_df = pd.DataFrame({"text":extract_folder(pass_folder),"passs":1})
-    reject_df = pd.DataFrame({"text":extract_folder(reject_folder),"passs":0})
+def main():
+    pass_df = pd.DataFrame({"text":extract_folder('pass'),"passs":1})
+    reject_df = pd.DataFrame({"text":extract_folder('reject'),"passs":0})
     pass_df = pass_df.append(reject_df, ignore_index=True)
+    new_df = pd.DataFrame({"text":extract_folder('new-resume')})
     norminalize_all(pass_df)
-    return pass_df
-
-def new_resume_df(new_resume_folder):
-    new_df = pd.DataFrame({"text":extract_folder(new_resume_folder)})
     norminalize_all(new_df)
-    return new_df
+    X_new = new_df['text']
+    X_train, X_test, y_train, y_test = train_test_split(pass_df['text'], pass_df['passs'], random_state=20, stratify=pass_df['passs'])
+    print(len(X_test),len(X_train))
+    import numpy as np
+    # scikit-learn k-fold cross-validation
+    X = pass_df['text']
+    y = pass_df['passs']
 
-def tf_idf_method(feature_set, target_set,random_state_value):
-    X_train, X_test, y_train, y_test = train_test_split(feature_set, target_set, random_state=random_state_value)
+    from sklearn.model_selection import StratifiedKFold
+    cv = StratifiedKFold(n_splits=4)
+
+    for train_index, test_index in cv.split(X, y):
+        print("TRAIN:", train_index, "TEST:", test_index)
+        X_train, X_test = X[train_index], X[test_index]
+        y_train, y_test = y[train_index], y[test_index]
+    print(pass_df)
     vect = TfidfVectorizer()
     X_train_dtm = tokenize_and_train(vect,X_train)
-    nb = train(X_train_dtm, y_train)
     X_test_dtm = transform(vect,X_test)
-    metric(y_test,X_test_dtm)
+    nb = train(X_train_dtm, y_train)
+    y_pred_class = run_test(X_test_dtm)
+    metric(y_test,y_pred_class)
+
     X_new_dtm = transform(vect,X_new)
     print(predict(X_new_dtm))
 
-def main():
-    pass_df = combine_pass_reject_df('pass','reject')
-    X_new = new_resume_df('new-resume')
-    nb = tf_idf_method(pass_df['text'], pass_df['passs'], 20)   
-    # X_test_dtm = transform(vect,X_test)
-    # metric(y_test,X_test_dtm)
-    # X_new_dtm = transform(vect,X_new)
-    # print(predict(X_new_dtm))
 
+def main_logistic():
+    pass_df = pd.DataFrame({"text":extract_folder('pass'),"passs":1})
+    reject_df = pd.DataFrame({"text":extract_folder('reject'),"passs":0})
+    pass_df = pass_df.append(reject_df, ignore_index=True)
+    new_df = pd.DataFrame({"text":extract_folder('new-resume')})
+    norminalize_all(pass_df)
+    norminalize_all(new_df)
+    X_new = new_df['text']
+    X_train, X_test, y_train, y_test = train_test_split(pass_df['text'], pass_df['passs'], random_state=20, stratify=pass_df['passs'])
+    print(len(X_test),len(X_train))
+
+    vect = TfidfVectorizer()
+    X_train_dtm = tokenize_and_train(vect,X_train)
+    X_test_dtm = transform(vect,X_test)
+    
+    # Use logistic regression with all features.
+    # logreg = LogisticRegression(C=1e9)
+    # logreg.fit(X_train_dtm_extra, y_train)
+    # y_pred_class = logreg.predict(X_test_dtm_extra)
+    # print((metrics.accuracy_score(y_test, y_pred_class)))
+
+    # Use logistic regression with text column only.
+    logreg = LogisticRegression(C=1e9)
+    logreg.fit(X_train_dtm, y_train)
+    y_pred_class = logreg.predict(X_test_dtm)
+    metric(y_test,y_pred_class)
 
 if __name__ == "__main__":
-    main()
+    main_logistic()
+    # main()
