@@ -187,7 +187,7 @@ if __name__ == '__main__':
     for _file in get_all('pass-pdf'):
         print(_file)
         extract_text(
-            files=[_file], outfile=_file.replace('pass-pdf\\', 'output\\').replace('.pdf', '.txt'),
+            files=[_file], outfile=_file.replace('pass-pdf\\', 'pass\\').replace('.pdf', '.txt'),
             _py2_no_more_posargs=None,  # Bloody Python2 needs a shim
             no_laparams=False, all_texts=None,
             detect_vertical=None,  # LAParams
@@ -198,20 +198,20 @@ if __name__ == '__main__':
             rotation=0, layoutmode='normal', output_dir=None,
             debug=False,
             disable_caching=False)
-    for _file in get_all('new-resume-pdf'):
-        print(_file)
-        extract_text(
-            files=[_file], outfile=_file.replace('new-resume-pdf\\', 'new-resume\\').replace('.pdf', '.txt'),
-            _py2_no_more_posargs=None,  # Bloody Python2 needs a shim
-            no_laparams=False, all_texts=None,
-            detect_vertical=None,  # LAParams
-            word_margin=None, char_margin=None, line_margin=None,
-            boxes_flow=None,  # LAParams
-            output_type='text', codec='utf-8', strip_control=False,
-            maxpages=0, page_numbers=None, password="", scale=1.0,
-            rotation=0, layoutmode='normal', output_dir=None,
-            debug=False,
-            disable_caching=False)
+    # for _file in get_all('new-resume-pdf'):
+    #     print(_file)
+    #     extract_text(
+    #         files=[_file], outfile=_file.replace('new-resume-pdf\\', 'new-resume\\').replace('.pdf', '.txt'),
+    #         _py2_no_more_posargs=None,  # Bloody Python2 needs a shim
+    #         no_laparams=False, all_texts=None,
+    #         detect_vertical=None,  # LAParams
+    #         word_margin=None, char_margin=None, line_margin=None,
+    #         boxes_flow=None,  # LAParams
+    #         output_type='text', codec='utf-8', strip_control=False,
+    #         maxpages=0, page_numbers=None, password="", scale=1.0,
+    #         rotation=0, layoutmode='normal', output_dir=None,
+    #         debug=False,
+    #         disable_caching=False)
     for _file in get_all('reject-pdf'):
         print(_file)
         extract_text(
